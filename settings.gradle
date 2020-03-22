@@ -1,0 +1,2 @@
+rootProject.name='Tim Kao AIDL Server'
+include ':app'
